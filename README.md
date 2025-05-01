@@ -20,9 +20,9 @@ Most labs require:
 
 ![Lab 7 Results - TTY Operations](labs/lab7_results.png)
 
-![Lab 8 Results - Process Math](labs/lab8_results.png)
+![Lab 8 Results - Process Math](labs/lab8_result.png)
 
-![Lab 10 Results - Socket Client-Server](labs/lab10_results.png)
+![Lab 10 Results - Socket Client-Server](labs/lab10_result.png)
 
 ## Important Notes
 - Some code requires specific permissions or environment setup
