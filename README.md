@@ -19,7 +19,9 @@ Most labs require:
 ## Sample Lab Outputs
 
 ![Lab 7 Results - TTY Operations](labs/lab7_results.png)
+
 ![Lab 8 Results - Process Math](labs/lab8_results.png)
+
 ![Lab 10 Results - Socket Client-Server](labs/lab10_results.png)
 
 ## Important Notes
